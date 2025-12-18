@@ -14,8 +14,8 @@
             <span class="px-4 py-2 bg-slate-800 border border-slate-700 rounded-full text-sm text-blue-300 hover:border-blue-500 transition cursor-default">JavaScript</span>
             <span class="px-4 py-2 bg-slate-800 border border-slate-700 rounded-full text-sm text-blue-300 hover:border-blue-500 transition cursor-default">Vue.js</span>
             <span class="px-4 py-2 bg-slate-800 border border-slate-700 rounded-full text-sm text-blue-300 hover:border-blue-500 transition cursor-default">Tailwind</span>
-          </div><br>
-          <button class="text-white px-4 py-2 rounded-lg shadow-md w-full shadow-blue-500 bg-blue-600 hover:bg-blue-700 transform transition hover:-translate-y-1 md:w-auto mx-2">See my work</button></div> 
+          </div><br>  <RouterLink to="/Project-page" active-class="text-blue-500 border-b-2 border-blue-500" >
+          <button class="text-white cursor-pointer px-4 py-2 rounded-lg shadow-md w-full shadow-blue-500 bg-blue-600 hover:bg-blue-700 transform transition hover:-translate-y-1 md:w-auto mx-2">See my work</button></RouterLink></div> 
    </div>
 <div class="relative flex justify-center md:justify-end">
           <div class="absolute -inset-1 bg-linear-to-r from-blue-500 to-cyan-400 rounded-full blur-3xl opacity-20 w-3/4 h-3/4 mx-auto top-10"></div>
@@ -47,7 +47,7 @@
       </h2>
       <div class="flex flex-wrap justify-center gap-8 md:gap-16 text-5xl">
         
-        <a href="#" target="_blank" class="text-slate-500 hover:text-white transition transform hover:-translate-y-2 group">
+        <a href="https://github.com/RomanAli2" target="_blank" class="text-slate-500 hover:text-white transition transform hover:-translate-y-2 group">
           <i class="fa-brands fa-github"></i>
           <p class="text-base mt-2 text-slate-400 group-hover:text-blue-400 transition">GitHub</p>
         </a>

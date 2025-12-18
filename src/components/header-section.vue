@@ -28,7 +28,7 @@
         <span class="hidden md:block">Home</span>
       </RouterLink>
 
-      <RouterLink to="" active-class="text-blue-500 border-b-2 border-blue-500" 
+      <RouterLink to="/Project-page" active-class="text-blue-500 border-b-2 border-blue-500" 
         class="text-white py-2 px-3 rounded-md hover:bg-blue-500/10 hover:text-blue-500 transition-colors md:hover:bg-transparent md:py-0 md:px-0 flex items-center">
         <i class="fa-solid fa-mobile-screen mr-2 md:mr-0"></i>
         <span class="md:hidden">My Project</span>
@@ -42,7 +42,7 @@
         <span class="hidden md:block">About</span>
       </RouterLink>
 
-      <RouterLink to="" active-class="text-blue-500 border-b-2 border-blue-500" 
+      <RouterLink to="/Resume-page" active-class="text-blue-500 border-b-2 border-blue-500" 
         class="text-white py-2 px-3 rounded-md hover:bg-blue-500/10 hover:text-blue-500 transition-colors md:hover:bg-transparent md:py-0 md:px-0 flex items-center">
         <i class="fa-solid fa-file-lines mr-2 md:mr-0"></i>
         <span class="md:hidden">Resume</span>
