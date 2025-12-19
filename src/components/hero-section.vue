@@ -57,12 +57,12 @@
           <p class="text-base mt-2 text-slate-400 group-hover:text-pink-500 transition">Instagram</p>
         </a>
         
-        <a href="#" target="_blank" class="text-slate-500 hover:text-blue-600 transition transform hover:-translate-y-2 group">
+        <a href="https://www.linkedin.com/in/roman-ali-frontend/" target="_blank" class="text-slate-500 hover:text-blue-600 transition transform hover:-translate-y-2 group">
           <i class="fa-brands fa-linkedin-in"></i>
           <p class="text-base mt-2 text-slate-400 group-hover:text-blue-600 transition">LinkedIn</p>
         </a>
         
-        <a href="#" target="_blank" class="text-slate-500 hover:text-green-500 transition transform hover:-translate-y-2 group">
+        <a href="https://www.fiverr.com/pe/kL6BYgy" target="_blank" class="text-slate-500 hover:text-green-500 transition transform hover:-translate-y-2 group">
           <i class="fa-solid fa-briefcase"></i> 
           <p class="text-base mt-2 text-slate-400 group-hover:text-green-500 transition">Fiverr</p>
         </a>
