@@ -26,7 +26,7 @@
 <div class="w-70  h-50 py-4">
   <img src="/image/Untitled.png" alt="project" class="rounded-md opacity-60"><br>
   <h2 class="text-xl font-bold">Weatherly</h2><br>
-  <p>Weatherly is a modern weather forecast web application designed with a clean UI and smooth user experience. It allows users to search for cities and view real-time weather details such as temperature, humidity, wind speed, and weather conditions. The application is fully responsive and built with Vue.js and Tailwind CSS, focusing on performance and usability.</p><a target="_blank" href="https://mega-mart-liard.vercel.app/">
+  <p>Weatherly is a modern weather forecast web application designed with a clean UI and smooth user experience. It allows users to search for cities and view real-time weather details such as temperature, humidity, wind speed, and weather conditions. The application is fully responsive and built with Vue.js and Tailwind CSS, focusing on performance and usability.</p><a target="_blank" href="https://weatherly-website.vercel.app/">
   <button class="px-7 py-3 text-xl rounded-xl mt-2 cursor-pointer bg-blue-500 text-white border border-blue-500"><i class="fa-solid fa-tv"></i>Demo</button></a>
 </div>
 </div>
