@@ -30,6 +30,14 @@
   <button class="px-7 py-3 text-xl rounded-xl mt-2 cursor-pointer bg-blue-500 text-white border border-blue-500"><i class="fa-solid fa-tv"></i>Demo</button></a>
 </div>
 </div>
+<div class="div bg-slate-800 h-150 flex justify-center rounded-xl  text-center w-80 shadow-md shadow-blue-400 transition duration-500 hover:scale-105 hover:shadow-blue-400 hover:shadow-xl">
+<div class="w-70  h-50 py-4">
+  <img src="/image/notion-two-dusky.vercel.app_.png" alt="project" class="rounded-md opacity-60"><br>
+  <h2 class="text-xl font-bold">Notion</h2><br>
+  <p>A clean and responsive Notion-inspired productivity web app built using Vue.js. This project focuses on modern UI, smooth user experience, and organized workspace design. Ideal for showcasing frontend skills and real-world layout implementation.</p><a target="_blank" href="https://notion-two-dusky.vercel.app/">
+  <button class="px-7 py-3 text-xl rounded-xl mt-2 cursor-pointer bg-blue-500 text-white border border-blue-500"><i class="fa-solid fa-tv"></i>Demo</button></a>
+</div>
+</div>
 
     </div>
    </div>
